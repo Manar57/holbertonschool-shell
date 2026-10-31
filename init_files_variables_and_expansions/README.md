@@ -20,3 +20,6 @@ Displays all local variables, environment variables, and shell functions using s
 
 ## 6. Local variable
 Creates a local variable named BEST with the value School.
+
+## 7. Global variable
+Creates and exports a global variable named BEST with the value School.
