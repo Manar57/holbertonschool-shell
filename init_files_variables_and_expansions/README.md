@@ -44,3 +44,6 @@ Prints all two-letter combinations from a to z except oo.
 
 ## 13. Floats
 Prints the NUM environment variable with two decimal places.
+
+## 14. Decimal to Hexadecimal
+Converts a decimal number to hexadecimal.
