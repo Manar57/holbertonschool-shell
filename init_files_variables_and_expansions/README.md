@@ -17,3 +17,6 @@ Displays all environment variables using printenv.
 
 ## 5. Local variables
 Displays all local variables, environment variables, and shell functions using set.
+
+## 6. Local variable
+Creates a local variable named BEST with the value School.
