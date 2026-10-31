@@ -41,3 +41,6 @@ Prints all two-letter combinations from a to z except oo.
 
 ## 12. Combination
 Prints all two-letter combinations from a to z except oo.
+
+## 13. Floats
+Prints the NUM environment variable with two decimal places.
