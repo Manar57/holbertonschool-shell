@@ -8,3 +8,6 @@ Prints hello followed by the current Linux user.
 
 ## 2. The path to success is to take massive, determined action
 Adds /action to the end of the PATH variable.
+
+## 3. If the path be beautiful, let us not ask where it leads
+Counts the non-empty directories in the PATH variable.
