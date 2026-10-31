@@ -32,3 +32,6 @@ Divides POWER by DIVIDE and prints the result.
 
 ## 10. Love exponent breath
 Displays BREATH raised to the power of LOVE.
+
+## 11. Binary to decimal
+Converts the BINARY environment variable from base 2 to base 10.
