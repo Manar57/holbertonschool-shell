@@ -1,4 +1,2 @@
 #!/bin/bash
-printf "
-" "$PATH" | tr ":" "
-" | grep -c .
+echo "$PATH" | tr ":" "\n" | grep -c .
