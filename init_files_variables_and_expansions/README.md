@@ -23,3 +23,6 @@ Creates a local variable named BEST with the value School.
 
 ## 7. Global variable
 Creates and exports a global variable named BEST with the value School.
+
+## 8. True knowledge
+Adds 128 to the value stored in TRUEKNOWLEDGE and prints the result.
