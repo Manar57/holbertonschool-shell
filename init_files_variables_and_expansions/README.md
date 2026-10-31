@@ -29,3 +29,6 @@ Adds 128 to the value stored in TRUEKNOWLEDGE and prints the result.
 
 ## 9. Divide and rule
 Divides POWER by DIVIDE and prints the result.
+
+## 10. Love exponent breath
+Displays BREATH raised to the power of LOVE.
