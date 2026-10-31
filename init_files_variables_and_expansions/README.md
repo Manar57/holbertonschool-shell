@@ -35,3 +35,6 @@ Displays BREATH raised to the power of LOVE.
 
 ## 11. Binary to decimal
 Converts the BINARY environment variable from base 2 to base 10.
+
+## 12. Combination
+Prints all two-letter combinations from a to z except oo.
