@@ -14,3 +14,6 @@ Counts the non-empty directories in the PATH variable.
 
 ## 4. Global variables
 Displays all environment variables using printenv.
+
+## 5. Local variables
+Displays all local variables, environment variables, and shell functions using set.
