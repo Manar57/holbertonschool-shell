@@ -11,3 +11,6 @@ Adds /action to the end of the PATH variable.
 
 ## 3. If the path be beautiful, let us not ask where it leads
 Counts the non-empty directories in the PATH variable.
+
+## 4. Global variables
+Displays all environment variables using printenv.
